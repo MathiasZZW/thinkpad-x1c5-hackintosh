@@ -1,5 +1,5 @@
 # macOS on Thinkpad X1 Carbon 5th Generation, Model 20HQ\*
-
+ok,create a new branch
 [![macOS](https://img.shields.io/badge/macOS-Catalina-yellow.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![version](https://img.shields.io/badge/10.15.4-yellow)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![BIOS](https://img.shields.io/badge/BIOS-1.45-blue)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
